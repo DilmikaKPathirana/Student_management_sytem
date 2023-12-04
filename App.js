@@ -10,8 +10,7 @@ function App(){
   return(
     <View>
     <Register/>
-  <Text>Hii</Text>
-  <Text>hii2</Text>
+  
     </View>
   )
 }
