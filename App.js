@@ -11,6 +11,7 @@ function App(){
     <View>
     <Register/>
   <Text>hyyyy</Text>
+  <Text>code commit</Text>
     </View>
   )
 }
