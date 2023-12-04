@@ -10,9 +10,7 @@ function App(){
   return(
     <View>
     <Register/>
-  <Text>hyyyy</Text>
-  <Text>code commit</Text>
-  <Text>Sencond commit</Text>
+
     </View>
   )
 }
