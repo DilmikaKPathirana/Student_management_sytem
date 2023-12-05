@@ -11,6 +11,7 @@ function App(){
     <View>
     <Register/>
 <Text>git hub code editor</Text>
+<Text>vs code commit</Text>
     </View>
   )
 }
